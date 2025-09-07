@@ -71,6 +71,7 @@ Leetcode questions with solutions
 ## Database
 |  |
 | ------- |
+| [0176-second-highest-salary](https://github.com/Nandhish-K/Leetcode/tree/master/0176-second-highest-salary) |
 | [0183-customers-who-never-order](https://github.com/Nandhish-K/Leetcode/tree/master/0183-customers-who-never-order) |
 | [1258-article-views-i](https://github.com/Nandhish-K/Leetcode/tree/master/1258-article-views-i) |
 <!---LeetCode Topics End-->
