@@ -68,4 +68,8 @@ Leetcode questions with solutions
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Nandhish-K/Leetcode/tree/master/0169-majority-element) |
+## Database
+|  |
+| ------- |
+| [1258-article-views-i](https://github.com/Nandhish-K/Leetcode/tree/master/1258-article-views-i) |
 <!---LeetCode Topics End-->
