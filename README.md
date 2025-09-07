@@ -76,6 +76,7 @@ Leetcode questions with solutions
 | [0181-employees-earning-more-than-their-managers](https://github.com/Nandhish-K/Leetcode/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0182-duplicate-emails](https://github.com/Nandhish-K/Leetcode/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/Nandhish-K/Leetcode/tree/master/0183-customers-who-never-order) |
+| [0184-department-highest-salary](https://github.com/Nandhish-K/Leetcode/tree/master/0184-department-highest-salary) |
 | [0577-employee-bonus](https://github.com/Nandhish-K/Leetcode/tree/master/0577-employee-bonus) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/Nandhish-K/Leetcode/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0595-big-countries](https://github.com/Nandhish-K/Leetcode/tree/master/0595-big-countries) |
