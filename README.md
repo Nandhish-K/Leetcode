@@ -36,6 +36,7 @@ Leetcode questions with solutions
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Nandhish-K/Leetcode/tree/master/0412-fizz-buzz) |
+| [2887-sort-vowels-in-a-string](https://github.com/Nandhish-K/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 ## Simulation
 |  |
 | ------- |
@@ -65,6 +66,7 @@ Leetcode questions with solutions
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Nandhish-K/Leetcode/tree/master/0169-majority-element) |
+| [2887-sort-vowels-in-a-string](https://github.com/Nandhish-K/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 ## Counting
 |  |
 | ------- |
