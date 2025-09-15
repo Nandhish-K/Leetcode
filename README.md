@@ -15,6 +15,7 @@ Leetcode questions with solutions
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Nandhish-K/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0056-merge-intervals](https://github.com/Nandhish-K/Leetcode/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/Nandhish-K/Leetcode/tree/master/0169-majority-element) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Nandhish-K/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Nandhish-K/Leetcode/tree/master/0496-next-greater-element-i) |
@@ -72,6 +73,7 @@ Leetcode questions with solutions
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Nandhish-K/Leetcode/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/Nandhish-K/Leetcode/tree/master/0169-majority-element) |
 | [2887-sort-vowels-in-a-string](https://github.com/Nandhish-K/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 ## Counting
