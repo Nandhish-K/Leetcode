@@ -25,6 +25,7 @@ Leetcode questions with solutions
 | [0169-majority-element](https://github.com/Nandhish-K/Leetcode/tree/master/0169-majority-element) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Nandhish-K/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Nandhish-K/Leetcode/tree/master/0496-next-greater-element-i) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/Nandhish-K/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Nandhish-K/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Stack
 |  |
@@ -38,6 +39,7 @@ Leetcode questions with solutions
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Nandhish-K/Leetcode/tree/master/0412-fizz-buzz) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/Nandhish-K/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2887-sort-vowels-in-a-string](https://github.com/Nandhish-K/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [3462-vowels-game-in-a-string](https://github.com/Nandhish-K/Leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Nandhish-K/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
