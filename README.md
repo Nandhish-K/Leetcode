@@ -44,6 +44,7 @@ Leetcode questions with solutions
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Nandhish-K/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0412-fizz-buzz](https://github.com/Nandhish-K/Leetcode/tree/master/0412-fizz-buzz) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Nandhish-K/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2429-design-a-food-rating-system](https://github.com/Nandhish-K/Leetcode/tree/master/2429-design-a-food-rating-system) |
@@ -127,4 +128,12 @@ Leetcode questions with solutions
 |  |
 | ------- |
 | [2429-design-a-food-rating-system](https://github.com/Nandhish-K/Leetcode/tree/master/2429-design-a-food-rating-system) |
+## Two Pointers
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Nandhish-K/Leetcode/tree/master/0005-longest-palindromic-substring) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Nandhish-K/Leetcode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
