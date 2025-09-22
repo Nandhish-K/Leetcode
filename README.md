@@ -23,6 +23,7 @@ Leetcode questions with solutions
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Nandhish-K/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Nandhish-K/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2429-design-a-food-rating-system](https://github.com/Nandhish-K/Leetcode/tree/master/2429-design-a-food-rating-system) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/Nandhish-K/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Hash Table
 |  |
 | ------- |
@@ -31,6 +32,7 @@ Leetcode questions with solutions
 | [0496-next-greater-element-i](https://github.com/Nandhish-K/Leetcode/tree/master/0496-next-greater-element-i) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Nandhish-K/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2429-design-a-food-rating-system](https://github.com/Nandhish-K/Leetcode/tree/master/2429-design-a-food-rating-system) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/Nandhish-K/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Nandhish-K/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Stack
 |  |
@@ -87,6 +89,7 @@ Leetcode questions with solutions
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Nandhish-K/Leetcode/tree/master/0169-majority-element) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/Nandhish-K/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Nandhish-K/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Database
 |  |
