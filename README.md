@@ -20,6 +20,7 @@ Leetcode questions with solutions
 | [0169-majority-element](https://github.com/Nandhish-K/Leetcode/tree/master/0169-majority-element) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Nandhish-K/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Nandhish-K/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0611-valid-triangle-number](https://github.com/Nandhish-K/Leetcode/tree/master/0611-valid-triangle-number) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Nandhish-K/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Nandhish-K/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2429-design-a-food-rating-system](https://github.com/Nandhish-K/Leetcode/tree/master/2429-design-a-food-rating-system) |
@@ -77,6 +78,7 @@ Leetcode questions with solutions
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Nandhish-K/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0611-valid-triangle-number](https://github.com/Nandhish-K/Leetcode/tree/master/0611-valid-triangle-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -87,6 +89,7 @@ Leetcode questions with solutions
 | ------- |
 | [0056-merge-intervals](https://github.com/Nandhish-K/Leetcode/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/Nandhish-K/Leetcode/tree/master/0169-majority-element) |
+| [0611-valid-triangle-number](https://github.com/Nandhish-K/Leetcode/tree/master/0611-valid-triangle-number) |
 | [2887-sort-vowels-in-a-string](https://github.com/Nandhish-K/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 ## Counting
 |  |
@@ -138,6 +141,7 @@ Leetcode questions with solutions
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Nandhish-K/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0611-valid-triangle-number](https://github.com/Nandhish-K/Leetcode/tree/master/0611-valid-triangle-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -146,4 +150,5 @@ Leetcode questions with solutions
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/Nandhish-K/Leetcode/tree/master/0402-remove-k-digits) |
+| [0611-valid-triangle-number](https://github.com/Nandhish-K/Leetcode/tree/master/0611-valid-triangle-number) |
 <!---LeetCode Topics End-->
