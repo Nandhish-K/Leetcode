@@ -7,6 +7,7 @@ Leetcode questions with solutions
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Nandhish-K/Leetcode/tree/master/0412-fizz-buzz) |
+| [0830-largest-triangle-area](https://github.com/Nandhish-K/Leetcode/tree/master/0830-largest-triangle-area) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Nandhish-K/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Nandhish-K/Leetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Nandhish-K/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
@@ -21,6 +22,7 @@ Leetcode questions with solutions
 | [0442-find-all-duplicates-in-an-array](https://github.com/Nandhish-K/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Nandhish-K/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0611-valid-triangle-number](https://github.com/Nandhish-K/Leetcode/tree/master/0611-valid-triangle-number) |
+| [0830-largest-triangle-area](https://github.com/Nandhish-K/Leetcode/tree/master/0830-largest-triangle-area) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Nandhish-K/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Nandhish-K/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2429-design-a-food-rating-system](https://github.com/Nandhish-K/Leetcode/tree/master/2429-design-a-food-rating-system) |
@@ -151,4 +153,8 @@ Leetcode questions with solutions
 | ------- |
 | [0402-remove-k-digits](https://github.com/Nandhish-K/Leetcode/tree/master/0402-remove-k-digits) |
 | [0611-valid-triangle-number](https://github.com/Nandhish-K/Leetcode/tree/master/0611-valid-triangle-number) |
+## Geometry
+|  |
+| ------- |
+| [0830-largest-triangle-area](https://github.com/Nandhish-K/Leetcode/tree/master/0830-largest-triangle-area) |
 <!---LeetCode Topics End-->
