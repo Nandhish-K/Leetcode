@@ -25,6 +25,7 @@ Leetcode questions with solutions
 | [0611-valid-triangle-number](https://github.com/Nandhish-K/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0830-largest-triangle-area](https://github.com/Nandhish-K/Leetcode/tree/master/0830-largest-triangle-area) |
 | [1018-largest-perimeter-triangle](https://github.com/Nandhish-K/Leetcode/tree/master/1018-largest-perimeter-triangle) |
+| [1168-duplicate-zeros](https://github.com/Nandhish-K/Leetcode/tree/master/1168-duplicate-zeros) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Nandhish-K/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Nandhish-K/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2429-design-a-food-rating-system](https://github.com/Nandhish-K/Leetcode/tree/master/2429-design-a-food-rating-system) |
@@ -147,6 +148,7 @@ Leetcode questions with solutions
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Nandhish-K/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0611-valid-triangle-number](https://github.com/Nandhish-K/Leetcode/tree/master/0611-valid-triangle-number) |
+| [1168-duplicate-zeros](https://github.com/Nandhish-K/Leetcode/tree/master/1168-duplicate-zeros) |
 ## Dynamic Programming
 |  |
 | ------- |
