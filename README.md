@@ -26,6 +26,7 @@ Leetcode questions with solutions
 | [0830-largest-triangle-area](https://github.com/Nandhish-K/Leetcode/tree/master/0830-largest-triangle-area) |
 | [1018-largest-perimeter-triangle](https://github.com/Nandhish-K/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1168-duplicate-zeros](https://github.com/Nandhish-K/Leetcode/tree/master/1168-duplicate-zeros) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/Nandhish-K/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Nandhish-K/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Nandhish-K/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2429-design-a-food-rating-system](https://github.com/Nandhish-K/Leetcode/tree/master/2429-design-a-food-rating-system) |
@@ -37,6 +38,7 @@ Leetcode questions with solutions
 | [0442-find-all-duplicates-in-an-array](https://github.com/Nandhish-K/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Nandhish-K/Leetcode/tree/master/0496-next-greater-element-i) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Nandhish-K/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/Nandhish-K/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2429-design-a-food-rating-system](https://github.com/Nandhish-K/Leetcode/tree/master/2429-design-a-food-rating-system) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Nandhish-K/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Nandhish-K/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -58,6 +60,7 @@ Leetcode questions with solutions
 | [0402-remove-k-digits](https://github.com/Nandhish-K/Leetcode/tree/master/0402-remove-k-digits) |
 | [0412-fizz-buzz](https://github.com/Nandhish-K/Leetcode/tree/master/0412-fizz-buzz) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Nandhish-K/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/Nandhish-K/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2429-design-a-food-rating-system](https://github.com/Nandhish-K/Leetcode/tree/master/2429-design-a-food-rating-system) |
 | [2887-sort-vowels-in-a-string](https://github.com/Nandhish-K/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [3462-vowels-game-in-a-string](https://github.com/Nandhish-K/Leetcode/tree/master/3462-vowels-game-in-a-string) |
@@ -96,6 +99,7 @@ Leetcode questions with solutions
 | [0169-majority-element](https://github.com/Nandhish-K/Leetcode/tree/master/0169-majority-element) |
 | [0611-valid-triangle-number](https://github.com/Nandhish-K/Leetcode/tree/master/0611-valid-triangle-number) |
 | [1018-largest-perimeter-triangle](https://github.com/Nandhish-K/Leetcode/tree/master/1018-largest-perimeter-triangle) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/Nandhish-K/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2887-sort-vowels-in-a-string](https://github.com/Nandhish-K/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 ## Counting
 |  |
