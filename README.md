@@ -31,6 +31,7 @@ Leetcode questions with solutions
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Nandhish-K/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2429-design-a-food-rating-system](https://github.com/Nandhish-K/Leetcode/tree/master/2429-design-a-food-rating-system) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Nandhish-K/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Nandhish-K/Leetcode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 ## Hash Table
 |  |
 | ------- |
