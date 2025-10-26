@@ -18,15 +18,22 @@ class ATM {
     
     public int[] withdraw(int amount) {
         int[] used = new int[5];
-        int remaining = amount;
-        for(int i = 4 ; i>=0 ; i--){
-            int available = notes[i];
-            int use = Math.min(remaining/values[i],available);
-            used[i] = (int)use;
-            remaining -= use * values[i];
+        // int remaining = amount;
+        // for(int i = 4 ; i>=0 ; i--){
+        //     int available = notes[i];
+        //     int use = Math.min(remaining/values[i],available);
+        //     used[i] = (int)use;
+        //     remaining -= use * values[i];
 
+        // }
+        int index = 4;
+        while(amount > 0 && index >= 0){
+            int takethismany = Math.min(amount/values[index], notes[index]);
+            used[index] = takethismany;
+            amount -= takethismany * values[index];
+            index--;
         }
-        if(remaining != 0){
+        if(amount != 0){
             return new int[]{-1};
         }
         for(int j = 0 ; j<5 ; j++){
