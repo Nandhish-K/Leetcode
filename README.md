@@ -33,6 +33,7 @@ Leetcode questions with solutions
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Nandhish-K/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/Nandhish-K/Leetcode/tree/master/2169-simple-bank-system) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Nandhish-K/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [2352-design-an-atm-machine](https://github.com/Nandhish-K/Leetcode/tree/master/2352-design-an-atm-machine) |
 | [2429-design-a-food-rating-system](https://github.com/Nandhish-K/Leetcode/tree/master/2429-design-a-food-rating-system) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Nandhish-K/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Nandhish-K/Leetcode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
@@ -151,6 +152,7 @@ Leetcode questions with solutions
 |  |
 | ------- |
 | [2169-simple-bank-system](https://github.com/Nandhish-K/Leetcode/tree/master/2169-simple-bank-system) |
+| [2352-design-an-atm-machine](https://github.com/Nandhish-K/Leetcode/tree/master/2352-design-an-atm-machine) |
 | [2429-design-a-food-rating-system](https://github.com/Nandhish-K/Leetcode/tree/master/2429-design-a-food-rating-system) |
 ## Heap (Priority Queue)
 |  |
@@ -176,6 +178,7 @@ Leetcode questions with solutions
 | [0402-remove-k-digits](https://github.com/Nandhish-K/Leetcode/tree/master/0402-remove-k-digits) |
 | [0611-valid-triangle-number](https://github.com/Nandhish-K/Leetcode/tree/master/0611-valid-triangle-number) |
 | [1018-largest-perimeter-triangle](https://github.com/Nandhish-K/Leetcode/tree/master/1018-largest-perimeter-triangle) |
+| [2352-design-an-atm-machine](https://github.com/Nandhish-K/Leetcode/tree/master/2352-design-an-atm-machine) |
 ## Geometry
 |  |
 | ------- |
