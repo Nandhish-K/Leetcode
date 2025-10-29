@@ -15,6 +15,7 @@ Leetcode questions with solutions
 | [2174-next-greater-numerically-balanced-number](https://github.com/Nandhish-K/Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Nandhish-K/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [3462-vowels-game-in-a-string](https://github.com/Nandhish-K/Leetcode/tree/master/3462-vowels-game-in-a-string) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/Nandhish-K/Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3830-find-closest-person](https://github.com/Nandhish-K/Leetcode/tree/master/3830-find-closest-person) |
 ## Array
 |  |
@@ -85,6 +86,7 @@ Leetcode questions with solutions
 |  |
 | ------- |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Nandhish-K/Leetcode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/Nandhish-K/Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Brainteaser
 |  |
 | ------- |
