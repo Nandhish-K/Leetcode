@@ -31,6 +31,7 @@ Leetcode questions with solutions
 | [1168-duplicate-zeros](https://github.com/Nandhish-K/Leetcode/tree/master/1168-duplicate-zeros) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Nandhish-K/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Nandhish-K/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/Nandhish-K/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Nandhish-K/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/Nandhish-K/Leetcode/tree/master/2169-simple-bank-system) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Nandhish-K/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
@@ -74,6 +75,7 @@ Leetcode questions with solutions
 | [0412-fizz-buzz](https://github.com/Nandhish-K/Leetcode/tree/master/0412-fizz-buzz) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Nandhish-K/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Nandhish-K/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/Nandhish-K/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Nandhish-K/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2345-minimum-number-of-operations-to-convert-time](https://github.com/Nandhish-K/Leetcode/tree/master/2345-minimum-number-of-operations-to-convert-time) |
 | [2429-design-a-food-rating-system](https://github.com/Nandhish-K/Leetcode/tree/master/2429-design-a-food-rating-system) |
@@ -179,12 +181,14 @@ Leetcode questions with solutions
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Nandhish-K/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/Nandhish-K/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 ## Greedy
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/Nandhish-K/Leetcode/tree/master/0402-remove-k-digits) |
 | [0611-valid-triangle-number](https://github.com/Nandhish-K/Leetcode/tree/master/0611-valid-triangle-number) |
 | [1018-largest-perimeter-triangle](https://github.com/Nandhish-K/Leetcode/tree/master/1018-largest-perimeter-triangle) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/Nandhish-K/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2345-minimum-number-of-operations-to-convert-time](https://github.com/Nandhish-K/Leetcode/tree/master/2345-minimum-number-of-operations-to-convert-time) |
 | [2352-design-an-atm-machine](https://github.com/Nandhish-K/Leetcode/tree/master/2352-design-an-atm-machine) |
 ## Geometry
