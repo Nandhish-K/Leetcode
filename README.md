@@ -20,6 +20,7 @@ Leetcode questions with solutions
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Nandhish-K/Leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Nandhish-K/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0056-merge-intervals](https://github.com/Nandhish-K/Leetcode/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/Nandhish-K/Leetcode/tree/master/0169-majority-element) |
@@ -43,6 +44,7 @@ Leetcode questions with solutions
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Nandhish-K/Leetcode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Nandhish-K/Leetcode/tree/master/0169-majority-element) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Nandhish-K/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Nandhish-K/Leetcode/tree/master/0496-next-greater-element-i) |
