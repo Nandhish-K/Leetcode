@@ -13,6 +13,7 @@ Leetcode questions with solutions
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Nandhish-K/Leetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Nandhish-K/Leetcode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Nandhish-K/Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
+| [2288-count-operations-to-obtain-zero](https://github.com/Nandhish-K/Leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Nandhish-K/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [3462-vowels-game-in-a-string](https://github.com/Nandhish-K/Leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Nandhish-K/Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
@@ -90,6 +91,7 @@ Leetcode questions with solutions
 | [0412-fizz-buzz](https://github.com/Nandhish-K/Leetcode/tree/master/0412-fizz-buzz) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Nandhish-K/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/Nandhish-K/Leetcode/tree/master/2169-simple-bank-system) |
+| [2288-count-operations-to-obtain-zero](https://github.com/Nandhish-K/Leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 ## Bit Manipulation
 |  |
 | ------- |
