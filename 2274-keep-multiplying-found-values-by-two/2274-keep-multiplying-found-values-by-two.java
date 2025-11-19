@@ -9,20 +9,29 @@ class Solution {
         //     }
         // }
         // return original;
-        boolean x = true;
-        while(x){
-            x = found(nums,original);
-            original *= 2;
-        }
-        return original/2;
-    }
-    public boolean found(int[] nums,int original){
-        for(int ele:nums){
-            if(ele==original){
-                return true;
-            }
+        
+    //     boolean x = true;
+    //     while(x){
+    //         x = found(nums,original);
+    //         original *= 2;
+    //     }
+    //     return original/2;
+    // }
+    // public boolean found(int[] nums,int original){
+    //     for(int ele:nums){
+    //         if(ele==original){
+    //             return true;
+    //         }
 
-        }
-        return false;
+    //     }
+    //     return false;
+    HashSet<Integer>set = new HashSet<>();
+    for(int ele:nums){
+        set.add(ele);
+    }
+    while(set.contains(original)){
+        original *= 2;
+    }
+    return original;
     }
 }
