@@ -56,6 +56,7 @@ Leetcode questions with solutions
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Nandhish-K/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Nandhish-K/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Nandhish-K/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/Nandhish-K/Leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2169-simple-bank-system](https://github.com/Nandhish-K/Leetcode/tree/master/2169-simple-bank-system) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Nandhish-K/Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Nandhish-K/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -85,6 +86,7 @@ Leetcode questions with solutions
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Nandhish-K/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Nandhish-K/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Nandhish-K/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/Nandhish-K/Leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Nandhish-K/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2345-minimum-number-of-operations-to-convert-time](https://github.com/Nandhish-K/Leetcode/tree/master/2345-minimum-number-of-operations-to-convert-time) |
 | [2429-design-a-food-rating-system](https://github.com/Nandhish-K/Leetcode/tree/master/2429-design-a-food-rating-system) |
@@ -102,6 +104,7 @@ Leetcode questions with solutions
 ## Bit Manipulation
 |  |
 | ------- |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/Nandhish-K/Leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Nandhish-K/Leetcode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Nandhish-K/Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Brainteaser
@@ -225,4 +228,8 @@ Leetcode questions with solutions
 |  |
 | ------- |
 | [2573-remove-nodes-from-linked-list](https://github.com/Nandhish-K/Leetcode/tree/master/2573-remove-nodes-from-linked-list) |
+## Prefix Sum
+|  |
+| ------- |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/Nandhish-K/Leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 <!---LeetCode Topics End-->
