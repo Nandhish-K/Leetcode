@@ -15,6 +15,7 @@ Leetcode questions with solutions
 | [2174-next-greater-numerically-balanced-number](https://github.com/Nandhish-K/Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Nandhish-K/Leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Nandhish-K/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Nandhish-K/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3462-vowels-game-in-a-string](https://github.com/Nandhish-K/Leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Nandhish-K/Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3830-find-closest-person](https://github.com/Nandhish-K/Leetcode/tree/master/3830-find-closest-person) |
@@ -43,6 +44,7 @@ Leetcode questions with solutions
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Nandhish-K/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2352-design-an-atm-machine](https://github.com/Nandhish-K/Leetcode/tree/master/2352-design-an-atm-machine) |
 | [2429-design-a-food-rating-system](https://github.com/Nandhish-K/Leetcode/tree/master/2429-design-a-food-rating-system) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Nandhish-K/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Nandhish-K/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Nandhish-K/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Nandhish-K/Leetcode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
