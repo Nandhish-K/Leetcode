@@ -6,6 +6,7 @@ Leetcode questions with solutions
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Nandhish-K/Leetcode/tree/master/0009-palindrome-number) |
 | [0412-fizz-buzz](https://github.com/Nandhish-K/Leetcode/tree/master/0412-fizz-buzz) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Nandhish-K/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0830-largest-triangle-area](https://github.com/Nandhish-K/Leetcode/tree/master/0830-largest-triangle-area) |
