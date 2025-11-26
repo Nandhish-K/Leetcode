@@ -74,6 +74,7 @@ Leetcode questions with solutions
 ## Stack
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Nandhish-K/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0402-remove-k-digits](https://github.com/Nandhish-K/Leetcode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Nandhish-K/Leetcode/tree/master/0496-next-greater-element-i) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Nandhish-K/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
@@ -241,4 +242,16 @@ Leetcode questions with solutions
 |  |
 | ------- |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Nandhish-K/Leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Nandhish-K/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Nandhish-K/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Nandhish-K/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
