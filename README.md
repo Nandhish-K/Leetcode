@@ -13,6 +13,7 @@ Leetcode questions with solutions
 | [1018-largest-perimeter-triangle](https://github.com/Nandhish-K/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Nandhish-K/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Nandhish-K/Leetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/Nandhish-K/Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Nandhish-K/Leetcode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Nandhish-K/Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Nandhish-K/Leetcode/tree/master/2288-count-operations-to-obtain-zero) |
