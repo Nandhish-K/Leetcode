@@ -55,6 +55,7 @@ Leetcode questions with solutions
 | [2352-design-an-atm-machine](https://github.com/Nandhish-K/Leetcode/tree/master/2352-design-an-atm-machine) |
 | [2429-design-a-food-rating-system](https://github.com/Nandhish-K/Leetcode/tree/master/2429-design-a-food-rating-system) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Nandhish-K/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/Nandhish-K/Leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Nandhish-K/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Nandhish-K/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Nandhish-K/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -162,6 +163,7 @@ Leetcode questions with solutions
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Nandhish-K/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2887-sort-vowels-in-a-string](https://github.com/Nandhish-K/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Nandhish-K/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/Nandhish-K/Leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 ## Counting
 |  |
 | ------- |
@@ -233,6 +235,7 @@ Leetcode questions with solutions
 | [2345-minimum-number-of-operations-to-convert-time](https://github.com/Nandhish-K/Leetcode/tree/master/2345-minimum-number-of-operations-to-convert-time) |
 | [2352-design-an-atm-machine](https://github.com/Nandhish-K/Leetcode/tree/master/2352-design-an-atm-machine) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Nandhish-K/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/Nandhish-K/Leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 ## Geometry
 |  |
 | ------- |
