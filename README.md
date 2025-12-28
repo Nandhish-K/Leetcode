@@ -42,6 +42,7 @@ Leetcode questions with solutions
 | [1018-largest-perimeter-triangle](https://github.com/Nandhish-K/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Nandhish-K/Leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1168-duplicate-zeros](https://github.com/Nandhish-K/Leetcode/tree/master/1168-duplicate-zeros) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Nandhish-K/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Nandhish-K/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Nandhish-K/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Nandhish-K/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -143,6 +144,7 @@ Leetcode questions with solutions
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Nandhish-K/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0611-valid-triangle-number](https://github.com/Nandhish-K/Leetcode/tree/master/0611-valid-triangle-number) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Nandhish-K/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Nandhish-K/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Divide and Conquer
 |  |
@@ -274,4 +276,8 @@ Leetcode questions with solutions
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Nandhish-K/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Nandhish-K/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+## Matrix
+|  |
+| ------- |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Nandhish-K/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->
