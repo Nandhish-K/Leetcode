@@ -7,6 +7,7 @@ Leetcode questions with solutions
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Nandhish-K/Leetcode/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/Nandhish-K/Leetcode/tree/master/0066-plus-one) |
 | [0412-fizz-buzz](https://github.com/Nandhish-K/Leetcode/tree/master/0412-fizz-buzz) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Nandhish-K/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0830-largest-triangle-area](https://github.com/Nandhish-K/Leetcode/tree/master/0830-largest-triangle-area) |
@@ -31,6 +32,7 @@ Leetcode questions with solutions
 | [0001-two-sum](https://github.com/Nandhish-K/Leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Nandhish-K/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0056-merge-intervals](https://github.com/Nandhish-K/Leetcode/tree/master/0056-merge-intervals) |
+| [0066-plus-one](https://github.com/Nandhish-K/Leetcode/tree/master/0066-plus-one) |
 | [0169-majority-element](https://github.com/Nandhish-K/Leetcode/tree/master/0169-majority-element) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Nandhish-K/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Nandhish-K/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
