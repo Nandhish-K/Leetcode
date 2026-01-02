@@ -41,6 +41,7 @@ Leetcode questions with solutions
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Nandhish-K/Leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0830-largest-triangle-area](https://github.com/Nandhish-K/Leetcode/tree/master/0830-largest-triangle-area) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Nandhish-K/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Nandhish-K/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1018-largest-perimeter-triangle](https://github.com/Nandhish-K/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Nandhish-K/Leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1168-duplicate-zeros](https://github.com/Nandhish-K/Leetcode/tree/master/1168-duplicate-zeros) |
@@ -72,6 +73,7 @@ Leetcode questions with solutions
 | [0169-majority-element](https://github.com/Nandhish-K/Leetcode/tree/master/0169-majority-element) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Nandhish-K/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Nandhish-K/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Nandhish-K/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Nandhish-K/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Nandhish-K/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Nandhish-K/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
