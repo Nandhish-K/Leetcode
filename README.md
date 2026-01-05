@@ -12,6 +12,7 @@ Leetcode questions with solutions
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Nandhish-K/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0830-largest-triangle-area](https://github.com/Nandhish-K/Leetcode/tree/master/0830-largest-triangle-area) |
 | [1018-largest-perimeter-triangle](https://github.com/Nandhish-K/Leetcode/tree/master/1018-largest-perimeter-triangle) |
+| [1390-four-divisors](https://github.com/Nandhish-K/Leetcode/tree/master/1390-four-divisors) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Nandhish-K/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Nandhish-K/Leetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Nandhish-K/Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -47,6 +48,7 @@ Leetcode questions with solutions
 | [1168-duplicate-zeros](https://github.com/Nandhish-K/Leetcode/tree/master/1168-duplicate-zeros) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Nandhish-K/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Nandhish-K/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1390-four-divisors](https://github.com/Nandhish-K/Leetcode/tree/master/1390-four-divisors) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Nandhish-K/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Nandhish-K/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Nandhish-K/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
