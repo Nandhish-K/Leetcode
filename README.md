@@ -8,6 +8,7 @@ Leetcode questions with solutions
 | ------- |
 | [0009-palindrome-number](https://github.com/Nandhish-K/Leetcode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Nandhish-K/Leetcode/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/Nandhish-K/Leetcode/tree/master/0070-climbing-stairs) |
 | [0412-fizz-buzz](https://github.com/Nandhish-K/Leetcode/tree/master/0412-fizz-buzz) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Nandhish-K/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0830-largest-triangle-area](https://github.com/Nandhish-K/Leetcode/tree/master/0830-largest-triangle-area) |
@@ -236,6 +237,7 @@ Leetcode questions with solutions
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Nandhish-K/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0070-climbing-stairs](https://github.com/Nandhish-K/Leetcode/tree/master/0070-climbing-stairs) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Nandhish-K/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 ## Greedy
 |  |
@@ -290,4 +292,8 @@ Leetcode questions with solutions
 |  |
 | ------- |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Nandhish-K/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Nandhish-K/Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
