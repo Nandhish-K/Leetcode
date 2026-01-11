@@ -69,6 +69,7 @@ Leetcode questions with solutions
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Nandhish-K/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Nandhish-K/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Nandhish-K/Leetcode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
+| [3708-longest-fibonacci-subarray](https://github.com/Nandhish-K/Leetcode/tree/master/3708-longest-fibonacci-subarray) |
 ## Hash Table
 |  |
 | ------- |
