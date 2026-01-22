@@ -2,7 +2,12 @@ from typing import List
 
 class Solution:
     def minimumPairRemoval(self, nums: List[int]) -> int:
-        if nums == sorted(nums) :
+        def is_sorted(nums) :
+            for i in range(1,len(nums)) :
+                if nums[i] < nums[i-1] :
+                    return False
+            return True
+        if is_sorted(nums) :
             return 0
         count = 0
         
@@ -28,7 +33,6 @@ class Solution:
                     array.append(nums[i])
                     i += 1
 
-            if array == sorted(array):
+            if is_sorted(array) :
                 return count
-            else:
-                nums = array
+            nums = array
