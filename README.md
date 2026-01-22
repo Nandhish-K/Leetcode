@@ -70,6 +70,7 @@ Leetcode questions with solutions
 | [3242-count-elements-with-maximum-frequency](https://github.com/Nandhish-K/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Nandhish-K/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Nandhish-K/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Nandhish-K/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Nandhish-K/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Nandhish-K/Leetcode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3708-longest-fibonacci-subarray](https://github.com/Nandhish-K/Leetcode/tree/master/3708-longest-fibonacci-subarray) |
@@ -91,6 +92,7 @@ Leetcode questions with solutions
 | [2429-design-a-food-rating-system](https://github.com/Nandhish-K/Leetcode/tree/master/2429-design-a-food-rating-system) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Nandhish-K/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Nandhish-K/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Nandhish-K/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Nandhish-K/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Stack
 |  |
@@ -134,6 +136,7 @@ Leetcode questions with solutions
 | [2169-simple-bank-system](https://github.com/Nandhish-K/Leetcode/tree/master/2169-simple-bank-system) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Nandhish-K/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Nandhish-K/Leetcode/tree/master/2288-count-operations-to-obtain-zero) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Nandhish-K/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -225,10 +228,12 @@ Leetcode questions with solutions
 |  |
 | ------- |
 | [2429-design-a-food-rating-system](https://github.com/Nandhish-K/Leetcode/tree/master/2429-design-a-food-rating-system) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Nandhish-K/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Ordered Set
 |  |
 | ------- |
 | [2429-design-a-food-rating-system](https://github.com/Nandhish-K/Leetcode/tree/master/2429-design-a-food-rating-system) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Nandhish-K/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -268,6 +273,7 @@ Leetcode questions with solutions
 | [0237-delete-node-in-a-linked-list](https://github.com/Nandhish-K/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [2573-remove-nodes-from-linked-list](https://github.com/Nandhish-K/Leetcode/tree/master/2573-remove-nodes-from-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Nandhish-K/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Nandhish-K/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Recursion
 |  |
 | ------- |
@@ -300,4 +306,8 @@ Leetcode questions with solutions
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Nandhish-K/Leetcode/tree/master/0070-climbing-stairs) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Nandhish-K/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 <!---LeetCode Topics End-->
