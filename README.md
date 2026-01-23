@@ -38,6 +38,7 @@ Leetcode questions with solutions
 | [0066-plus-one](https://github.com/Nandhish-K/Leetcode/tree/master/0066-plus-one) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Nandhish-K/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0169-majority-element](https://github.com/Nandhish-K/Leetcode/tree/master/0169-majority-element) |
+| [0303-range-sum-query-immutable](https://github.com/Nandhish-K/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Nandhish-K/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Nandhish-K/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0496-next-greater-element-i](https://github.com/Nandhish-K/Leetcode/tree/master/0496-next-greater-element-i) |
@@ -223,6 +224,7 @@ Leetcode questions with solutions
 ## Design
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/Nandhish-K/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [2169-simple-bank-system](https://github.com/Nandhish-K/Leetcode/tree/master/2169-simple-bank-system) |
 | [2352-design-an-atm-machine](https://github.com/Nandhish-K/Leetcode/tree/master/2352-design-an-atm-machine) |
 | [2429-design-a-food-rating-system](https://github.com/Nandhish-K/Leetcode/tree/master/2429-design-a-food-rating-system) |
@@ -283,6 +285,7 @@ Leetcode questions with solutions
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/Nandhish-K/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Nandhish-K/Leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Nandhish-K/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Tree
