@@ -50,6 +50,7 @@ Leetcode questions with solutions
 | [1018-largest-perimeter-triangle](https://github.com/Nandhish-K/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Nandhish-K/Leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1168-duplicate-zeros](https://github.com/Nandhish-K/Leetcode/tree/master/1168-duplicate-zeros) |
+| [1200-minimum-absolute-difference](https://github.com/Nandhish-K/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Nandhish-K/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Nandhish-K/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Nandhish-K/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -178,6 +179,7 @@ Leetcode questions with solutions
 | [0611-valid-triangle-number](https://github.com/Nandhish-K/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Nandhish-K/Leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [1018-largest-perimeter-triangle](https://github.com/Nandhish-K/Leetcode/tree/master/1018-largest-perimeter-triangle) |
+| [1200-minimum-absolute-difference](https://github.com/Nandhish-K/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Nandhish-K/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Nandhish-K/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Nandhish-K/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
