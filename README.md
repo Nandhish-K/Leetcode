@@ -104,6 +104,7 @@ Leetcode questions with solutions
 | [0145-binary-tree-postorder-traversal](https://github.com/Nandhish-K/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0402-remove-k-digits](https://github.com/Nandhish-K/Leetcode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Nandhish-K/Leetcode/tree/master/0496-next-greater-element-i) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/Nandhish-K/Leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Nandhish-K/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2573-remove-nodes-from-linked-list](https://github.com/Nandhish-K/Leetcode/tree/master/2573-remove-nodes-from-linked-list) |
 ## Monotonic Stack
@@ -122,6 +123,7 @@ Leetcode questions with solutions
 | [0944-delete-columns-to-make-sorted](https://github.com/Nandhish-K/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Nandhish-K/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Nandhish-K/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/Nandhish-K/Leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Nandhish-K/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Nandhish-K/Leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Nandhish-K/Leetcode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
@@ -253,6 +255,7 @@ Leetcode questions with solutions
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Nandhish-K/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/Nandhish-K/Leetcode/tree/master/0070-climbing-stairs) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/Nandhish-K/Leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Nandhish-K/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 ## Greedy
 |  |
